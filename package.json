@@ -19,7 +19,7 @@
     "nconf": "0.8.4",
     "react": "0.14.8",
     "react-dom": "0.14.8",
-    "request": "2.72.0"
+    "request": "2.88.2"
   },
   "repository": {},
   "engines": {
